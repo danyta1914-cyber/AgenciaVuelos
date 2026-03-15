@@ -1,0 +1,17 @@
+[
+    {
+        "nombre": "Ketorolaco",
+        "tipo": "antiinflamatorio",
+        "cantidad": 20
+    },
+    {
+        "nombre": "Ibuprofeno",
+        "tipo": "Antiiflamatorio",
+        "cantidad": 10
+    },
+    {
+        "nombre": "Ketorolaco",
+        "tipo": "Antiinflamatorio",
+        "cantidad": 20
+    }
+]
