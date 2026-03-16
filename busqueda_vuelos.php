@@ -1,1 +1,1 @@
-<h1>Modulo de busqueda</h1>
+<h1>Modulo de búsqueda</h1>
